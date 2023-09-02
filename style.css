@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    
+    background-color: black;
 }
 
 h1 {
@@ -10,15 +10,15 @@ h1 {
 }
 
 #intro{
-    background-color: rgb(182, 220, 238);
+    background-color:white;
 }
 
 #origami1{
-
+background-color: lightcoral;
 }
 
 #origami2{
-
+background-color: lightcoral;
 }
 
 .line {
